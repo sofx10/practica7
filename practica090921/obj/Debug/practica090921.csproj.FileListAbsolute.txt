@@ -1,0 +1,10 @@
+C:\Users\Claros\source\repos\practica090921\practica090921\bin\Debug\practica090921.exe.config
+C:\Users\Claros\source\repos\practica090921\practica090921\bin\Debug\practica090921.exe
+C:\Users\Claros\source\repos\practica090921\practica090921\bin\Debug\practica090921.pdb
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.csproj.AssemblyReference.cache
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.Form1.resources
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.Properties.Resources.resources
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.csproj.GenerateResource.cache
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.csproj.CoreCompileInputs.cache
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.exe
+C:\Users\Claros\source\repos\practica090921\practica090921\obj\Debug\practica090921.pdb
